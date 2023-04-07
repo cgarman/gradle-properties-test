@@ -1,1 +1,4 @@
-rootProject.name = 'reproducer-project'
+rootProject.name = 'properties-test'
+
+include 'multi-proj'
+include 'multi-proj:libA'
